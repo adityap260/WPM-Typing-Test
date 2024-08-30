@@ -11,8 +11,6 @@ The **WPM Typing Test** is a Python-based terminal application that measures you
 - **Accuracy Measurement (Optional):** Compare your typed text with the original to calculate accuracy.
 - **User-Friendly:** Simple and intuitive terminal interface.
 
-## Getting Started
-
 ### Prerequisites
 
 - Python 3.x installed on your system.
